@@ -1,0 +1,5 @@
+@LearningPlatform_HostAddress = http:
+GET {{LearningPlatform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

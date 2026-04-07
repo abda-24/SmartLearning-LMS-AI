@@ -1,0 +1,23 @@
+﻿[
+  {
+    "FirstName": "Abdullah",
+    "LastName": "Elbanna",
+    "UserName": "elbanna@test.com",
+    "Email": "elbanna@test.com",
+    "Role": "Instructor"
+  },
+  {
+    "FirstName": "Mahmoud",
+    "LastName": "Student",
+    "UserName": "student@test.com",
+    "Email": "student@test.com",
+    "Role": "Student"
+  },
+  {
+    "FirstName": "System",
+    "LastName": "Admin",
+    "UserName": "admin@test.com",
+    "Email": "admin@test.com",
+    "Role": "Admin"
+  }
+]
