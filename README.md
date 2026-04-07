@@ -11,9 +11,14 @@
 
   *Empowering education through Clean Architecture, High Performance, and Artificial Intelligence.*
 
-  [Live API (Swagger) 🚀](https://lnkd.in/d7wgZtnx) • [API Documentation 📚](https://lnkd.in/dHBjm9dX) • [GitHub Repository 💻](https://lnkd.in/dG7iDd6M)
-
 </div>
+
+---
+
+## 🔗 Quick Links
+* **Live API (Swagger):** [https://lnkd.in/d7wgZtnx](https://lnkd.in/d7wgZtnx)
+* **API Documentation:** [https://lnkd.in/dHBjm9dX](https://lnkd.in/dHBjm9dX)
+* **GitHub Repository:** [https://lnkd.in/dG7iDd6M](https://lnkd.in/dG7iDd6M)
 
 ---
 
