@@ -16,8 +16,8 @@
 ---
 
 ## 🔗 Quick Links
-* **Live API (Swagger):** [https://lnkd.in/d7wgZtnx](https://lnkd.in/d7wgZtnx)
-* **API Documentation:** [https://lnkd.in/dHBjm9dX](https://lnkd.in/dHBjm9dX)
+* **Live API (Swagger):** http://elbanna-edu.runasp.net/index.html
+* **API Documentation:** https://ds1veqw7gd.apidog.io/
 * **GitHub Repository:** [https://lnkd.in/dG7iDd6M](https://lnkd.in/dG7iDd6M)
 
 ---
